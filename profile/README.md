@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://crossfont-enterprise.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_CrossFont_Enterprise-blue?style=for-the-badge&logo=github" alt="Get CrossFont Enterprise"/>
+    <img src="https://image.shutterstock.com/image-vector/cross-icon-set-silhouette-style-260nw-2419265513.jpg" alt="Get CrossFont Enterprise"/>
   </a>
 </p>
 
