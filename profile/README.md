@@ -1,12 +1,12 @@
 # CrossFont Enterprise – Corporate Font Management Solution
 
 <p align="center">
-  <img src=https://www.creativefabrica.com/wp-content/uploads/2024/06/25/Cross-Fonts-100379609-2-580x387.png" alt="CrossFont Enterprise Logo"/>
+  <img src="https://image.shutterstock.com/image-vector/cross-icon-set-silhouette-style-260nw-2419265513.jpg" alt="CrossFont Enterprise Logo"/>
 </p>
 
 <p align="center">
   <a href="https://crossfont-enterprise.github.io/.github/">
-    <img src="https://image.shutterstock.com/image-vector/cross-icon-set-silhouette-style-260nw-2419265513.jpg" alt="Get CrossFont Enterprise"/>
+    <img src="https://img.shields.io/badge/⬇️_Get_CrossFont_Enterprise-blue?style=for-the-badge&logo=github" alt="Get CrossFont Enterprise"/>
   </a>
 </p>
 
